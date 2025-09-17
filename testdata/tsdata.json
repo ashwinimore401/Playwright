@@ -1,0 +1,11 @@
+[{
+    "username":"abc123",
+    "email": "abc123@gmail.com",
+    "pwd": "abc@123"
+},
+{
+
+"username":"xyz123",
+    "email": "xyz123@gmail.com",
+    "pwd": "xyz@123"
+}]
